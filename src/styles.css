@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.menu-collapsed .logo-1{
+    display: none;
+  }
+
+  .logo-2{
+    display:none;
+  }
+    .menu-collapsed .logo-2{
+      display: block
+  
+    }
