@@ -1,4 +1,4 @@
-# Requirements
+## Requirements
 
 • Visual studio (IDE)
 
@@ -12,7 +12,7 @@
 
 •	Bootstrap 4
 
-# Installing The Prerequisite
+## Installing the prerequisite
 
 •	Verify that you are running at least node 8.x.x and npm 6.x.x by running node -v and npm -v in a terminal/console window.
 
@@ -20,13 +20,13 @@
 
 •	angular-cli: You can install angular-cli by executing following command from your terminal: npm install -g @angular/cli . More details can be found here https://github.com/angular/angular-cli.
 
-# Download the code
+## Download the code
 
 When you completed tools setup, you need to download the code.The easiest way to do that is to clone GitHub repository:
 
 git clone [Project URL]
 
-# Run the application:
+## Run the application
 
 •	cd [PROJECT NAME] 
 
@@ -36,7 +36,7 @@ git clone [Project URL]
 
 •	ng serve
 
-# Code Scaffoldings
+## Code scaffoldings
 •	Run ng generate component component-name to generate a new component. You can also use ng generate directive/pipe/service/class
 
 •	API configuration are done on app.service.ts and login.service.ts file
@@ -47,7 +47,7 @@ git clone [Project URL]
 
 •	Lazy loading of modules are done under folder /shared/routes/
 
-# Preloading Strategy
+## Preloading strategy
 
 •	Provides a preloading strategy that preloads all modules as quickly as possible.
 
@@ -55,7 +55,7 @@ git clone [Project URL]
 
 •	You can put this code in app-routing.module.ts
 
-# Building
+## Building
 
 •	Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
 
