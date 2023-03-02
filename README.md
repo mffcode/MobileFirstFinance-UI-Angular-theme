@@ -22,9 +22,11 @@
 
 ## Download the code
 
-When you completed tools setup, you need to download the code.The easiest way to do that is to clone GitHub repository:
+When you completed tools setup, you need to download the code.The easiest way to do that is to clone GitHub repository
 
+```sh
 git clone [Project URL]
+```
 
 ## Run the application
 
