@@ -28,13 +28,30 @@ git clone [Project URL]
 
 ## Run the application
 
-•	cd [PROJECT NAME] 
+First, navigate to the frontend root folder
+
+```sh
+cd ./Project URL
+```
 
 •	Before proceding you'll need to install npm packages. You can do this by running npm install from the root of your project to install all the necessary dependencies described in the package.json and verify that it works.
 
-•	npm install
+Then, install the NPM packages required to build and run the frontend. This process can take a while.
 
-•	ng serve
+```sh
+# /frontend
+npm install
+```
+
+Finally, build and start the frontend
+
+```sh
+# /frontend
+npm run build
+npm start
+```
+
+
 
 ## Code scaffoldings
 •	Run ng generate component component-name to generate a new component. You can also use ng generate directive/pipe/service/class
